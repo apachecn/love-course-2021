@@ -32,8 +32,6 @@
 
 # 两性情感课程笔记 2021
 
-> 原文：[{nameEn}]({urlEn})
-> 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
 > 阶段：机翻（1）
