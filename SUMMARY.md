@@ -6,4 +6,5 @@
 +   [大橙](docs/da-cheng/README.md)
 +   [摸鱼情感](docs/mo-yu/README.md)
 +   [本渡](docs/ben-du/README.md)
++   [梵公子](docs/fan-gong-zi/README.md)
 +   [其它](docs/misc/README.md)
