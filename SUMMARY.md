@@ -14,4 +14,5 @@
 +   [艾克](docs/ai-ke/README.md)
 +   [郑匡宇](docs/zheng-kuang-yu/README.md)
 +   [男哥](docs/nan-ge/README.md)
++   [魔鬼咨询师](docs/mo-gui-zi-xun-shi/README.md)
 +   [其它](docs/misc/README.md)
