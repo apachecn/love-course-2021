@@ -18,4 +18,5 @@
 +   [雅痞](docs/ya-pi/README.md)
 +   [但丁](docs/dan-ding/README.md)
 +   [男子气概](docs/nan-zi-qi-gai/README.md)
++   [绅士派](docs/shen-shi-pai/README.md)
 +   [其它](docs/misc/README.md)
